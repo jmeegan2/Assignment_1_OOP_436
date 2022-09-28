@@ -6,22 +6,15 @@ public class LinkedList436 {
     public void add(Object data) {
 
         // PLEASE ADD YOUR CODE HERE.
-
-
     }
-
     // inserts the specified element at the specified position in this list
     public void add(Object data, int index) {
 
         // PLEASE ADD YOUR CODE HERE.
-
-
     }
-
     // returns the element at the specified position in this list.
     public Object get(int index)
     {
-
         // PLEASE ADD YOUR CODE HERE.
 
 
@@ -52,48 +45,32 @@ public class LinkedList436 {
         return counter;
     }
 
-
+    // Inner Class Node implemented below                                                       //
+    //////////////////////////////////////////////////////////////////////////////////////////////
     private class Node {
 
         // reference to the next node in the chain, or null if there isn't one.
-
         Node next;
 
 
 
 // data carried by this node. could be of any type you need.
-
         Object data;
 
-
-
 // Node constructor
-
         public Node(Object dataValue) {
 
-
-
         }
-
-
 
 // these methods should be self-explanatory
 
         public Object getData() {
-
             return data;
-
         }
-
-
 
         public void setData(Object dataValue) {
-
 // PLEASE INPLEMENT YOUR CODE HERE
-
         }
-
-
 
 // return the next node of the current node
 
@@ -103,13 +80,12 @@ public class LinkedList436 {
 
         }
 
-
-
         public void setNext(Node nextValue) {
 
-// PLEASE INPLEMENT YOUR CODE HERE
+// PLEASE ImPLEMENT YOUR CODE HERE
 
         }
 
     }
+    //////////////////////////////////////////////////////////////////////////////////////////////
 }
