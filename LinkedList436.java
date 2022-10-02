@@ -69,7 +69,7 @@ public class LinkedList436 {
         }
 
         public void setData(Object dataValue) {
-// PLEASE INPLEMENT YOUR CODE HERE
+        // PLEASE INPLEMENT YOUR CODE HERE
         }
 
 // return the next node of the current node
