@@ -1,30 +1,34 @@
 public class LinkedList436 {
+
     private int counter;
     private Node head;
 
     // appends the specified element to the end of this list.
+    // visible but its a method that has no return value
     public void add(Object data) {
-
-        // PLEASE ADD YOUR CODE HERE.
+        Node newNode = new Node(data);
     }
     // inserts the specified element at the specified position in this list
+    // visible but its a method that has no return value
     public void add(Object data, int index) {
 
-        // PLEASE ADD YOUR CODE HERE.
+
     }
     // returns the element at the specified position in this list.
+    // visible that returns an element in specified position
     public Object get(int index)
     {
-        // PLEASE ADD YOUR CODE HERE.
+
 
 
         return null;
     }
 
     // removes the element at the specified position in this list.
+    // visible method to remove specific element at position
     public boolean remove(int index) {
 
-        // PLEASE ADD YOUR CODE HERE.
+
 
 
         return false;
@@ -32,9 +36,9 @@ public class LinkedList436 {
 
 
     // returns the String content of all the nodes in this list.
+    // visible method with return to show all the nodes in list
     public String toString() {
 
-        // PLEASE ADD YOUR CODE HERE.
 
 
         return null;
@@ -69,7 +73,7 @@ public class LinkedList436 {
         }
 
         public void setData(Object dataValue) {
-        // PLEASE INPLEMENT YOUR CODE HERE
+
         }
 
 // return the next node of the current node
@@ -82,10 +86,14 @@ public class LinkedList436 {
 
         public void setNext(Node nextValue) {
 
-// PLEASE ImPLEMENT YOUR CODE HERE
 
         }
 
     }
     //////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
 }
+
