@@ -1,0 +1,1 @@
+Please use an inner class to implement a LinkedList436 class, which means you should design an inner class for Node below (points will be deducted if you do not use an inner class). The entire code structure of LinkedList436 has been provided on Blackboard. Below is a partial example for Node. Please do not use Java built-in LinkedList in your implementation. 

@@ -11,7 +11,7 @@ public class LinkedList436Test {
         linkedList436.add("3");
         linkedList436.add("4");
         linkedList436.add("5");
-
+        linkedList436.add("99");
         /*
          * Check whether your methods work.
          */
